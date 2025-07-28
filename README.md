@@ -2,8 +2,8 @@
 
 This is a RESTful API built with Flask, SQLAlchemy, and SQLite for a fictional online movie rental store. It serves as a portfolio project to demonstrate backend development, database design, and structured data ingestion from CSV files.
 
-## Project Structure {FIXME}
-
+## Project Structure
+```text
 movie\_rental\_api/
 │
 ├── app.py                   # Main Flask app with API endpoints
@@ -18,7 +18,7 @@ movie\_rental\_api/
 │   ├── payments.csv
 │   └── reviews.csv
 └── /venv/                   # Python virtual environment
-
+```
 
 ## Setup Instructions
 
