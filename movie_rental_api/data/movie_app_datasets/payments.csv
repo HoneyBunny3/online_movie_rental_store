@@ -1,0 +1,1001 @@
+payment_id,user_id,rental_id,payment_date,amount,payment_method,status
+1,,,,2.12,Credit Card,Completed
+2,,,,5.22,PayPal,Completed
+3,,,,2.27,Credit Card,Failed
+4,,,,6.07,Credit Card,Completed
+5,,,,5.21,Credit Card,Failed
+6,,,,1.37,Apple Pay,Failed
+7,,,,5.36,Credit Card,Completed
+8,,,,3.28,Apple Pay,Failed
+9,,,,6.53,Google Pay,Failed
+10,,,,3.42,PayPal,Completed
+11,,,,6.29,Google Pay,Failed
+12,,,,4.99,PayPal,Refunded
+13,,,,5.63,Google Pay,Completed
+14,,,,4.27,Apple Pay,Failed
+15,,,,2.88,Google Pay,Failed
+16,,,,5.41,PayPal,Completed
+17,,,,1.11,Apple Pay,Failed
+18,,,,2.48,Apple Pay,Refunded
+19,,,,5.5,PayPal,Completed
+20,,,,5.08,PayPal,Failed
+21,,,,2.97,Google Pay,Failed
+22,,,,5.34,Google Pay,Failed
+23,,,,3.35,PayPal,Refunded
+24,,,,1.81,Credit Card,Failed
+25,,,,4.06,Google Pay,Completed
+26,,,,3.71,Apple Pay,Failed
+27,,,,4.99,PayPal,Completed
+28,,,,3.14,Credit Card,Failed
+29,,,,1.03,Google Pay,Completed
+30,,,,3.91,Google Pay,Refunded
+31,,,,3.58,Apple Pay,Completed
+32,,,,4.44,Apple Pay,Completed
+33,,,,3.08,PayPal,Completed
+34,,,,6.98,Credit Card,Completed
+35,,,,5.44,Google Pay,Failed
+36,,,,2.02,Apple Pay,Failed
+37,,,,1.82,Credit Card,Completed
+38,,,,3.58,Apple Pay,Completed
+39,,,,5.69,PayPal,Completed
+40,,,,6.89,Google Pay,Failed
+41,,,,1.06,PayPal,Refunded
+42,,,,2.83,Apple Pay,Completed
+43,,,,2.09,PayPal,Completed
+44,,,,1.12,Credit Card,Failed
+45,,,,2.58,Apple Pay,Refunded
+46,,,,2.26,Google Pay,Completed
+47,,,,4.48,PayPal,Failed
+48,,,,1.87,Google Pay,Refunded
+49,,,,4.63,Google Pay,Completed
+50,,,,4.98,PayPal,Completed
+51,,,,4.5,Apple Pay,Completed
+52,,,,1.69,Google Pay,Failed
+53,,,,4.21,Google Pay,Completed
+54,,,,4.75,Apple Pay,Completed
+55,,,,6.57,Apple Pay,Failed
+56,,,,1.5,Google Pay,Refunded
+57,,,,5.53,Google Pay,Failed
+58,,,,1.89,PayPal,Failed
+59,,,,2.78,PayPal,Failed
+60,,,,2.65,Google Pay,Refunded
+61,,,,4.8,Credit Card,Completed
+62,,,,5.58,PayPal,Completed
+63,,,,2.95,Google Pay,Refunded
+64,,,,4.65,PayPal,Failed
+65,,,,6.64,Credit Card,Completed
+66,,,,1.82,Credit Card,Completed
+67,,,,2.54,Apple Pay,Failed
+68,,,,2.71,Credit Card,Refunded
+69,,,,5.01,Credit Card,Failed
+70,,,,3.02,PayPal,Completed
+71,,,,5.96,Google Pay,Refunded
+72,,,,4.87,PayPal,Refunded
+73,,,,2.73,PayPal,Refunded
+74,,,,3.43,PayPal,Refunded
+75,,,,6.13,Google Pay,Completed
+76,,,,1.18,PayPal,Completed
+77,,,,3.22,Credit Card,Failed
+78,,,,5.68,PayPal,Failed
+79,,,,1.4,Google Pay,Failed
+80,,,,1.11,Apple Pay,Failed
+81,,,,1.16,Credit Card,Failed
+82,,,,2.63,Credit Card,Refunded
+83,,,,4.41,Google Pay,Completed
+84,,,,1.47,PayPal,Failed
+85,,,,6.48,Google Pay,Failed
+86,,,,7,Google Pay,Failed
+87,,,,2.2,Google Pay,Failed
+88,,,,3.74,Apple Pay,Refunded
+89,,,,2.44,Apple Pay,Refunded
+90,,,,6.67,PayPal,Refunded
+91,,,,2.64,Credit Card,Completed
+92,,,,1.38,Apple Pay,Refunded
+93,,,,6.96,Google Pay,Failed
+94,,,,3.06,PayPal,Refunded
+95,,,,6.38,Credit Card,Completed
+96,,,,1.56,Google Pay,Refunded
+97,,,,4.76,Google Pay,Completed
+98,,,,6.98,PayPal,Refunded
+99,,,,2.9,Apple Pay,Refunded
+100,,,,5.66,Apple Pay,Refunded
+101,,,,4.56,PayPal,Completed
+102,,,,1.15,Credit Card,Completed
+103,,,,6.88,Credit Card,Failed
+104,,,,6.61,Credit Card,Completed
+105,,,,4.15,Google Pay,Refunded
+106,,,,2.84,PayPal,Completed
+107,,,,3.29,Google Pay,Completed
+108,,,,5.14,Apple Pay,Refunded
+109,,,,5.38,Google Pay,Refunded
+110,,,,3.93,Credit Card,Refunded
+111,,,,6.1,Apple Pay,Failed
+112,,,,1.31,PayPal,Refunded
+113,,,,6.08,PayPal,Refunded
+114,,,,3.4,Credit Card,Refunded
+115,,,,1.37,Credit Card,Failed
+116,,,,2.94,Google Pay,Completed
+117,,,,6.18,Credit Card,Completed
+118,,,,2.91,Credit Card,Completed
+119,,,,2.11,PayPal,Refunded
+120,,,,4.66,PayPal,Refunded
+121,,,,6.58,Credit Card,Completed
+122,,,,5.56,Apple Pay,Refunded
+123,,,,1.33,Google Pay,Completed
+124,,,,6.16,Credit Card,Completed
+125,,,,3.59,Google Pay,Failed
+126,,,,3.76,Google Pay,Failed
+127,,,,3.76,Apple Pay,Refunded
+128,,,,2.83,PayPal,Failed
+129,,,,6.32,Credit Card,Failed
+130,,,,1.82,PayPal,Refunded
+131,,,,2.21,Google Pay,Failed
+132,,,,3.21,Google Pay,Refunded
+133,,,,1.32,Apple Pay,Completed
+134,,,,2.94,Apple Pay,Refunded
+135,,,,3.53,PayPal,Completed
+136,,,,4.95,Google Pay,Refunded
+137,,,,3.8,PayPal,Completed
+138,,,,5.77,Credit Card,Failed
+139,,,,5.81,Google Pay,Completed
+140,,,,6.16,Apple Pay,Failed
+141,,,,5.46,Google Pay,Completed
+142,,,,1.56,Apple Pay,Failed
+143,,,,2.27,PayPal,Refunded
+144,,,,1.38,Apple Pay,Completed
+145,,,,1.18,Google Pay,Completed
+146,,,,5.39,Google Pay,Completed
+147,,,,3,Credit Card,Failed
+148,,,,2.13,PayPal,Completed
+149,,,,1.01,Apple Pay,Failed
+150,,,,5.91,Google Pay,Refunded
+151,,,,6.28,Apple Pay,Refunded
+152,,,,6.96,PayPal,Failed
+153,,,,2.9,Apple Pay,Failed
+154,,,,3.89,Google Pay,Completed
+155,,,,1.14,Credit Card,Completed
+156,,,,6.98,PayPal,Failed
+157,,,,5.57,Credit Card,Refunded
+158,,,,6.15,Credit Card,Completed
+159,,,,4.85,Credit Card,Refunded
+160,,,,5.29,PayPal,Failed
+161,,,,1.04,Credit Card,Failed
+162,,,,2.02,PayPal,Failed
+163,,,,2.32,PayPal,Failed
+164,,,,1.72,Google Pay,Failed
+165,,,,4.26,Apple Pay,Failed
+166,,,,1.38,Google Pay,Completed
+167,,,,6.19,Apple Pay,Failed
+168,,,,6.44,PayPal,Failed
+169,,,,6.68,PayPal,Refunded
+170,,,,2.43,Apple Pay,Refunded
+171,,,,4.41,Google Pay,Completed
+172,,,,2.36,PayPal,Refunded
+173,,,,2.42,Credit Card,Completed
+174,,,,2.75,Apple Pay,Completed
+175,,,,4.82,Apple Pay,Failed
+176,,,,2.8,PayPal,Refunded
+177,,,,1.24,PayPal,Completed
+178,,,,3.18,Apple Pay,Failed
+179,,,,6.74,Credit Card,Failed
+180,,,,6.08,Credit Card,Completed
+181,,,,6.5,Google Pay,Completed
+182,,,,6.47,PayPal,Failed
+183,,,,4.82,Google Pay,Refunded
+184,,,,1.28,Google Pay,Refunded
+185,,,,4.07,PayPal,Failed
+186,,,,2.5,Apple Pay,Refunded
+187,,,,1.27,Google Pay,Completed
+188,,,,1.24,PayPal,Failed
+189,,,,3.25,Credit Card,Refunded
+190,,,,3.96,Google Pay,Refunded
+191,,,,2.22,PayPal,Refunded
+192,,,,6.2,Credit Card,Completed
+193,,,,4.33,Apple Pay,Failed
+194,,,,6.31,Google Pay,Refunded
+195,,,,4.99,Google Pay,Failed
+196,,,,2.1,PayPal,Refunded
+197,,,,1.3,Apple Pay,Refunded
+198,,,,6,Credit Card,Failed
+199,,,,5.67,PayPal,Failed
+200,,,,4.3,Google Pay,Failed
+201,,,,1.86,Google Pay,Refunded
+202,,,,5.05,Apple Pay,Refunded
+203,,,,5.04,Credit Card,Failed
+204,,,,1.86,Apple Pay,Completed
+205,,,,2.38,Google Pay,Completed
+206,,,,5.04,Credit Card,Failed
+207,,,,3.31,Credit Card,Failed
+208,,,,6.16,PayPal,Completed
+209,,,,4.88,PayPal,Refunded
+210,,,,2.77,Credit Card,Completed
+211,,,,1.64,Apple Pay,Completed
+212,,,,1.92,Apple Pay,Failed
+213,,,,1.14,Google Pay,Completed
+214,,,,3.68,Apple Pay,Failed
+215,,,,3.02,Google Pay,Failed
+216,,,,2.86,PayPal,Failed
+217,,,,3.1,Credit Card,Failed
+218,,,,4.16,PayPal,Refunded
+219,,,,2.06,PayPal,Failed
+220,,,,2.78,Credit Card,Refunded
+221,,,,5.56,Apple Pay,Failed
+222,,,,4.28,Credit Card,Completed
+223,,,,3.51,Google Pay,Failed
+224,,,,3.94,Apple Pay,Completed
+225,,,,2.97,Credit Card,Failed
+226,,,,5.82,Credit Card,Failed
+227,,,,5.46,PayPal,Refunded
+228,,,,6.43,Google Pay,Completed
+229,,,,3.66,PayPal,Completed
+230,,,,3.98,PayPal,Completed
+231,,,,2.1,Credit Card,Refunded
+232,,,,1.8,Credit Card,Completed
+233,,,,5.89,Google Pay,Refunded
+234,,,,3.63,Credit Card,Completed
+235,,,,1.83,Apple Pay,Completed
+236,,,,1.38,Credit Card,Failed
+237,,,,2.29,Google Pay,Failed
+238,,,,4.28,PayPal,Failed
+239,,,,6.14,Google Pay,Completed
+240,,,,3.95,Credit Card,Failed
+241,,,,2.32,Google Pay,Failed
+242,,,,2.47,PayPal,Refunded
+243,,,,4.31,Credit Card,Completed
+244,,,,2.37,Credit Card,Refunded
+245,,,,3.07,Google Pay,Refunded
+246,,,,5.18,Google Pay,Completed
+247,,,,5.34,PayPal,Refunded
+248,,,,1.27,Credit Card,Completed
+249,,,,2.33,PayPal,Failed
+250,,,,5.06,Apple Pay,Completed
+251,,,,5.96,PayPal,Refunded
+252,,,,6.56,Credit Card,Failed
+253,,,,4.18,Credit Card,Failed
+254,,,,4.16,Credit Card,Failed
+255,,,,4.26,Google Pay,Failed
+256,,,,4.95,PayPal,Failed
+257,,,,4.25,Credit Card,Failed
+258,,,,2.79,Apple Pay,Completed
+259,,,,1.63,PayPal,Completed
+260,,,,6.82,PayPal,Failed
+261,,,,6.46,PayPal,Completed
+262,,,,1.33,PayPal,Completed
+263,,,,3.86,Credit Card,Refunded
+264,,,,4.17,Google Pay,Failed
+265,,,,5.08,PayPal,Completed
+266,,,,3.92,PayPal,Refunded
+267,,,,4.35,Google Pay,Failed
+268,,,,1.59,Google Pay,Completed
+269,,,,1.54,PayPal,Refunded
+270,,,,6.19,PayPal,Refunded
+271,,,,3.77,Apple Pay,Completed
+272,,,,1.85,Google Pay,Refunded
+273,,,,4.07,PayPal,Completed
+274,,,,1.64,Google Pay,Failed
+275,,,,1.8,PayPal,Completed
+276,,,,4.4,PayPal,Failed
+277,,,,3.65,PayPal,Completed
+278,,,,4.81,PayPal,Completed
+279,,,,4.97,Apple Pay,Failed
+280,,,,5.59,Apple Pay,Refunded
+281,,,,5.19,Apple Pay,Failed
+282,,,,4.9,Credit Card,Completed
+283,,,,3.22,PayPal,Refunded
+284,,,,2.67,Google Pay,Failed
+285,,,,4.79,Apple Pay,Completed
+286,,,,4.14,Credit Card,Failed
+287,,,,1.03,Apple Pay,Completed
+288,,,,4.65,PayPal,Refunded
+289,,,,1.6,Credit Card,Completed
+290,,,,6.51,Credit Card,Completed
+291,,,,4.28,Apple Pay,Refunded
+292,,,,3,Credit Card,Refunded
+293,,,,1.95,Apple Pay,Failed
+294,,,,6.01,Credit Card,Completed
+295,,,,4.93,Google Pay,Refunded
+296,,,,1.85,PayPal,Failed
+297,,,,1.55,Apple Pay,Failed
+298,,,,1.4,Google Pay,Completed
+299,,,,3.59,Credit Card,Failed
+300,,,,1.52,Credit Card,Failed
+301,,,,4.27,Google Pay,Refunded
+302,,,,4.97,Credit Card,Refunded
+303,,,,2.98,Credit Card,Refunded
+304,,,,3.53,Google Pay,Refunded
+305,,,,1.07,Google Pay,Refunded
+306,,,,2.16,Google Pay,Failed
+307,,,,2.66,Credit Card,Refunded
+308,,,,1.82,Credit Card,Failed
+309,,,,5.04,PayPal,Completed
+310,,,,4.25,Google Pay,Completed
+311,,,,1.81,Credit Card,Completed
+312,,,,1.54,PayPal,Completed
+313,,,,5.69,Apple Pay,Refunded
+314,,,,1.33,Apple Pay,Refunded
+315,,,,5.68,Apple Pay,Refunded
+316,,,,1.99,Apple Pay,Refunded
+317,,,,6.25,Credit Card,Refunded
+318,,,,5.61,Apple Pay,Refunded
+319,,,,5.54,Apple Pay,Refunded
+320,,,,5.73,Apple Pay,Refunded
+321,,,,4.02,Google Pay,Failed
+322,,,,1.21,Apple Pay,Failed
+323,,,,4.68,Apple Pay,Completed
+324,,,,4.58,Google Pay,Failed
+325,,,,1.08,PayPal,Completed
+326,,,,6.55,Credit Card,Failed
+327,,,,3.57,Credit Card,Refunded
+328,,,,2.5,Apple Pay,Completed
+329,,,,3.48,Apple Pay,Refunded
+330,,,,1.99,Apple Pay,Failed
+331,,,,6.95,Credit Card,Completed
+332,,,,3.37,PayPal,Completed
+333,,,,3.21,PayPal,Completed
+334,,,,4.52,Apple Pay,Failed
+335,,,,6.05,Credit Card,Completed
+336,,,,1.95,PayPal,Completed
+337,,,,6.43,PayPal,Completed
+338,,,,5.69,Google Pay,Completed
+339,,,,4.53,Credit Card,Refunded
+340,,,,5.83,PayPal,Failed
+341,,,,6.18,Google Pay,Refunded
+342,,,,3.12,PayPal,Failed
+343,,,,1.81,PayPal,Failed
+344,,,,1.64,Google Pay,Failed
+345,,,,3.7,Google Pay,Failed
+346,,,,3.7,Google Pay,Refunded
+347,,,,3.7,Google Pay,Failed
+348,,,,1.15,Google Pay,Failed
+349,,,,5.48,Apple Pay,Refunded
+350,,,,1.94,PayPal,Refunded
+351,,,,4.26,Credit Card,Failed
+352,,,,3.05,Credit Card,Completed
+353,,,,2.23,Credit Card,Refunded
+354,,,,1.86,Google Pay,Failed
+355,,,,5.06,Credit Card,Failed
+356,,,,2.05,Google Pay,Refunded
+357,,,,3.71,Google Pay,Failed
+358,,,,5.1,Credit Card,Failed
+359,,,,3.37,Google Pay,Completed
+360,,,,3.46,Credit Card,Failed
+361,,,,5.96,PayPal,Completed
+362,,,,3.79,PayPal,Failed
+363,,,,1.63,Credit Card,Refunded
+364,,,,1.38,Credit Card,Refunded
+365,,,,6.98,Apple Pay,Completed
+366,,,,6.05,Google Pay,Completed
+367,,,,6.49,Google Pay,Refunded
+368,,,,1.93,Google Pay,Refunded
+369,,,,5.78,Credit Card,Failed
+370,,,,5.41,Apple Pay,Failed
+371,,,,6.77,Google Pay,Completed
+372,,,,3,Credit Card,Completed
+373,,,,1.77,PayPal,Refunded
+374,,,,5.14,Google Pay,Refunded
+375,,,,6.37,Google Pay,Refunded
+376,,,,5.59,PayPal,Completed
+377,,,,1.91,Apple Pay,Failed
+378,,,,6.64,Apple Pay,Completed
+379,,,,4.79,Google Pay,Failed
+380,,,,1.29,Apple Pay,Completed
+381,,,,3.29,Google Pay,Failed
+382,,,,2.3,Apple Pay,Completed
+383,,,,1.01,Credit Card,Failed
+384,,,,6.2,Credit Card,Completed
+385,,,,6.48,Google Pay,Failed
+386,,,,3.87,Apple Pay,Refunded
+387,,,,4.45,Apple Pay,Refunded
+388,,,,1.82,Google Pay,Refunded
+389,,,,2.43,PayPal,Completed
+390,,,,1.74,Credit Card,Completed
+391,,,,2.59,Credit Card,Refunded
+392,,,,3.9,Apple Pay,Failed
+393,,,,6.36,Apple Pay,Completed
+394,,,,6.45,Apple Pay,Refunded
+395,,,,5.61,PayPal,Failed
+396,,,,3.46,Credit Card,Refunded
+397,,,,6.82,Google Pay,Refunded
+398,,,,1.62,PayPal,Refunded
+399,,,,4.75,Google Pay,Failed
+400,,,,1.73,PayPal,Completed
+401,,,,5.13,Apple Pay,Failed
+402,,,,1.19,Apple Pay,Refunded
+403,,,,1.58,Google Pay,Failed
+404,,,,6.65,Apple Pay,Failed
+405,,,,5.76,Google Pay,Completed
+406,,,,4.07,Apple Pay,Completed
+407,,,,2.73,Apple Pay,Failed
+408,,,,1.9,Apple Pay,Refunded
+409,,,,6.93,Credit Card,Refunded
+410,,,,2,Credit Card,Failed
+411,,,,6.04,PayPal,Refunded
+412,,,,6.46,Credit Card,Failed
+413,,,,1.52,PayPal,Failed
+414,,,,5.2,Google Pay,Failed
+415,,,,1.26,Credit Card,Failed
+416,,,,3.08,Credit Card,Completed
+417,,,,5.74,PayPal,Refunded
+418,,,,2.01,Credit Card,Completed
+419,,,,5.97,Apple Pay,Completed
+420,,,,2.56,Google Pay,Completed
+421,,,,1.41,PayPal,Completed
+422,,,,4.74,Credit Card,Failed
+423,,,,1.34,PayPal,Refunded
+424,,,,4.09,Google Pay,Completed
+425,,,,5.68,Google Pay,Completed
+426,,,,4.88,Credit Card,Completed
+427,,,,5.52,Apple Pay,Failed
+428,,,,3.16,Credit Card,Failed
+429,,,,3.76,Credit Card,Refunded
+430,,,,1.06,PayPal,Failed
+431,,,,1.19,Google Pay,Completed
+432,,,,6.51,Credit Card,Completed
+433,,,,6.15,Credit Card,Completed
+434,,,,4.74,PayPal,Refunded
+435,,,,6.15,PayPal,Refunded
+436,,,,2.22,Google Pay,Failed
+437,,,,5.75,Apple Pay,Failed
+438,,,,2.6,PayPal,Completed
+439,,,,6.84,Credit Card,Failed
+440,,,,1.3,Google Pay,Refunded
+441,,,,6.09,Apple Pay,Refunded
+442,,,,2.04,Credit Card,Completed
+443,,,,2.19,Credit Card,Failed
+444,,,,5.56,PayPal,Refunded
+445,,,,3.02,Google Pay,Completed
+446,,,,6.76,Apple Pay,Completed
+447,,,,1.19,Google Pay,Refunded
+448,,,,1.78,PayPal,Completed
+449,,,,5.95,Credit Card,Refunded
+450,,,,4.75,Credit Card,Failed
+451,,,,1.09,PayPal,Completed
+452,,,,4.14,PayPal,Failed
+453,,,,5.04,PayPal,Refunded
+454,,,,2.52,PayPal,Failed
+455,,,,5.47,Apple Pay,Failed
+456,,,,1.91,Credit Card,Completed
+457,,,,2.4,PayPal,Failed
+458,,,,1.83,Google Pay,Completed
+459,,,,3.76,Apple Pay,Completed
+460,,,,3.07,PayPal,Failed
+461,,,,5.11,Apple Pay,Failed
+462,,,,5.57,Credit Card,Refunded
+463,,,,4.89,Apple Pay,Refunded
+464,,,,3.78,PayPal,Refunded
+465,,,,5.43,Apple Pay,Failed
+466,,,,6.53,Google Pay,Completed
+467,,,,3.17,Google Pay,Failed
+468,,,,1.87,Credit Card,Completed
+469,,,,1.83,Google Pay,Refunded
+470,,,,3.19,Google Pay,Completed
+471,,,,4.25,Apple Pay,Failed
+472,,,,4.36,Credit Card,Completed
+473,,,,3.02,PayPal,Failed
+474,,,,1.79,PayPal,Refunded
+475,,,,6.94,Credit Card,Failed
+476,,,,5.67,Google Pay,Failed
+477,,,,1.14,Apple Pay,Completed
+478,,,,5.26,PayPal,Failed
+479,,,,3.1,Google Pay,Failed
+480,,,,2.33,Credit Card,Completed
+481,,,,6.85,Google Pay,Failed
+482,,,,2.73,Google Pay,Failed
+483,,,,6.82,Apple Pay,Refunded
+484,,,,1.98,PayPal,Refunded
+485,,,,4.4,Apple Pay,Completed
+486,,,,4.49,Google Pay,Failed
+487,,,,2.59,Credit Card,Completed
+488,,,,2.58,Google Pay,Completed
+489,,,,2.32,Credit Card,Refunded
+490,,,,1.3,Apple Pay,Completed
+491,,,,4.64,Apple Pay,Failed
+492,,,,1.68,Apple Pay,Completed
+493,,,,4.26,Apple Pay,Completed
+494,,,,1.3,Apple Pay,Refunded
+495,,,,4.3,Apple Pay,Failed
+496,,,,4.17,Apple Pay,Completed
+497,,,,1.57,PayPal,Completed
+498,,,,2.93,Credit Card,Refunded
+499,,,,4.92,Apple Pay,Failed
+500,,,,3.97,Apple Pay,Completed
+501,,,,3.82,Credit Card,Completed
+502,,,,5.77,Apple Pay,Failed
+503,,,,2.09,Credit Card,Completed
+504,,,,1.88,Google Pay,Refunded
+505,,,,2.87,PayPal,Refunded
+506,,,,2.18,Google Pay,Completed
+507,,,,1.14,Apple Pay,Failed
+508,,,,6.75,Google Pay,Failed
+509,,,,4.54,PayPal,Completed
+510,,,,3.69,Google Pay,Refunded
+511,,,,1.12,Apple Pay,Failed
+512,,,,1.07,Credit Card,Refunded
+513,,,,2.83,Google Pay,Failed
+514,,,,3.64,PayPal,Completed
+515,,,,5.2,Apple Pay,Failed
+516,,,,3.42,Google Pay,Completed
+517,,,,1.47,PayPal,Refunded
+518,,,,5.16,Apple Pay,Refunded
+519,,,,3.18,PayPal,Refunded
+520,,,,3.11,Google Pay,Refunded
+521,,,,1.22,Credit Card,Failed
+522,,,,6.21,Google Pay,Failed
+523,,,,6.72,Google Pay,Failed
+524,,,,2.1,Apple Pay,Failed
+525,,,,3.36,Credit Card,Failed
+526,,,,1.63,Google Pay,Failed
+527,,,,3.21,Google Pay,Completed
+528,,,,4,PayPal,Refunded
+529,,,,6.4,Credit Card,Completed
+530,,,,3.38,PayPal,Failed
+531,,,,1.05,Google Pay,Failed
+532,,,,3.3,Credit Card,Completed
+533,,,,5.7,Apple Pay,Failed
+534,,,,2.98,Apple Pay,Failed
+535,,,,1.29,Credit Card,Refunded
+536,,,,1.7,Credit Card,Completed
+537,,,,6.93,Apple Pay,Completed
+538,,,,5.32,PayPal,Completed
+539,,,,5.95,Google Pay,Completed
+540,,,,2.32,Credit Card,Refunded
+541,,,,6.47,Google Pay,Refunded
+542,,,,3.96,Apple Pay,Completed
+543,,,,5.16,Apple Pay,Failed
+544,,,,3.1,Credit Card,Failed
+545,,,,2.25,PayPal,Failed
+546,,,,4.83,PayPal,Completed
+547,,,,3.16,PayPal,Refunded
+548,,,,4.71,Apple Pay,Refunded
+549,,,,3.79,Google Pay,Completed
+550,,,,2.54,Credit Card,Failed
+551,,,,3.32,Google Pay,Completed
+552,,,,6.25,Credit Card,Completed
+553,,,,2.94,PayPal,Failed
+554,,,,5.68,Apple Pay,Completed
+555,,,,4.65,PayPal,Failed
+556,,,,4.69,PayPal,Failed
+557,,,,5.42,PayPal,Refunded
+558,,,,6.53,Apple Pay,Completed
+559,,,,1.89,Google Pay,Failed
+560,,,,4.53,Apple Pay,Failed
+561,,,,6.36,PayPal,Completed
+562,,,,3.33,Google Pay,Failed
+563,,,,1.66,Credit Card,Completed
+564,,,,5.14,Google Pay,Refunded
+565,,,,1.63,PayPal,Refunded
+566,,,,6.7,Credit Card,Completed
+567,,,,6,PayPal,Completed
+568,,,,6.07,Google Pay,Refunded
+569,,,,1.25,PayPal,Completed
+570,,,,2.65,Apple Pay,Failed
+571,,,,1.41,Apple Pay,Completed
+572,,,,1.62,Apple Pay,Failed
+573,,,,5.51,PayPal,Failed
+574,,,,2.81,Google Pay,Completed
+575,,,,4.58,Apple Pay,Refunded
+576,,,,2.51,Apple Pay,Completed
+577,,,,4.21,PayPal,Failed
+578,,,,4.64,Apple Pay,Completed
+579,,,,5.28,PayPal,Refunded
+580,,,,1.29,PayPal,Completed
+581,,,,4,PayPal,Completed
+582,,,,1.71,Google Pay,Completed
+583,,,,6.71,Apple Pay,Failed
+584,,,,5.36,Credit Card,Failed
+585,,,,2.15,Apple Pay,Completed
+586,,,,1.02,PayPal,Refunded
+587,,,,1.24,PayPal,Failed
+588,,,,6.27,Credit Card,Refunded
+589,,,,4.32,Google Pay,Completed
+590,,,,4.15,Apple Pay,Failed
+591,,,,3.41,Apple Pay,Completed
+592,,,,6.09,Google Pay,Failed
+593,,,,7,Apple Pay,Refunded
+594,,,,2.57,Apple Pay,Failed
+595,,,,6.07,Credit Card,Refunded
+596,,,,1.75,Google Pay,Refunded
+597,,,,1.32,Credit Card,Refunded
+598,,,,3.5,Google Pay,Refunded
+599,,,,4.3,Google Pay,Completed
+600,,,,5.4,PayPal,Refunded
+601,,,,3.19,Credit Card,Failed
+602,,,,3.72,PayPal,Refunded
+603,,,,6.78,Apple Pay,Refunded
+604,,,,5.92,Google Pay,Completed
+605,,,,4.5,Google Pay,Completed
+606,,,,2.24,Credit Card,Failed
+607,,,,5.96,Credit Card,Failed
+608,,,,3.83,Credit Card,Completed
+609,,,,6.97,Credit Card,Failed
+610,,,,5.21,Apple Pay,Failed
+611,,,,4.01,PayPal,Completed
+612,,,,3.87,Apple Pay,Failed
+613,,,,1.04,Credit Card,Refunded
+614,,,,4.62,Credit Card,Completed
+615,,,,2.51,Credit Card,Failed
+616,,,,5.39,Credit Card,Failed
+617,,,,1.63,Google Pay,Refunded
+618,,,,1.16,Apple Pay,Completed
+619,,,,6.42,Google Pay,Failed
+620,,,,3.77,Apple Pay,Completed
+621,,,,1.39,PayPal,Completed
+622,,,,2.28,Credit Card,Refunded
+623,,,,6.86,Apple Pay,Completed
+624,,,,1.87,Apple Pay,Completed
+625,,,,5.83,Google Pay,Failed
+626,,,,2.17,PayPal,Refunded
+627,,,,2.46,Google Pay,Refunded
+628,,,,2.13,Apple Pay,Failed
+629,,,,6.26,PayPal,Completed
+630,,,,4.82,PayPal,Failed
+631,,,,1.52,Google Pay,Refunded
+632,,,,6.02,Google Pay,Completed
+633,,,,4.95,Google Pay,Refunded
+634,,,,1.33,Apple Pay,Completed
+635,,,,3.62,Apple Pay,Failed
+636,,,,1.85,Google Pay,Completed
+637,,,,1.86,Google Pay,Failed
+638,,,,2.96,Credit Card,Refunded
+639,,,,6.67,PayPal,Completed
+640,,,,3.48,Credit Card,Completed
+641,,,,4.01,Apple Pay,Failed
+642,,,,6.64,PayPal,Refunded
+643,,,,3.58,Google Pay,Failed
+644,,,,1.23,PayPal,Failed
+645,,,,4.3,Apple Pay,Completed
+646,,,,6.2,Apple Pay,Failed
+647,,,,6.3,Apple Pay,Failed
+648,,,,4.1,Credit Card,Refunded
+649,,,,3.15,Credit Card,Refunded
+650,,,,6.9,Credit Card,Completed
+651,,,,4.72,Credit Card,Refunded
+652,,,,2.25,PayPal,Completed
+653,,,,1.11,Apple Pay,Completed
+654,,,,1.43,Credit Card,Failed
+655,,,,1.61,Google Pay,Completed
+656,,,,4.67,Apple Pay,Failed
+657,,,,3.8,Google Pay,Refunded
+658,,,,2.3,PayPal,Failed
+659,,,,5.48,PayPal,Failed
+660,,,,3,PayPal,Failed
+661,,,,1.69,Google Pay,Refunded
+662,,,,6.04,Apple Pay,Failed
+663,,,,2.39,Apple Pay,Failed
+664,,,,5.63,Google Pay,Refunded
+665,,,,5.88,Google Pay,Completed
+666,,,,1.63,PayPal,Completed
+667,,,,4.89,PayPal,Completed
+668,,,,5.36,Google Pay,Failed
+669,,,,3.9,Google Pay,Completed
+670,,,,6.82,Credit Card,Refunded
+671,,,,1.43,Credit Card,Failed
+672,,,,5.92,Google Pay,Failed
+673,,,,6.36,Credit Card,Refunded
+674,,,,6.39,PayPal,Completed
+675,,,,3.68,Credit Card,Completed
+676,,,,4.62,Apple Pay,Completed
+677,,,,6.74,Google Pay,Completed
+678,,,,2.63,PayPal,Completed
+679,,,,6.47,PayPal,Completed
+680,,,,2.69,PayPal,Refunded
+681,,,,3.39,Credit Card,Refunded
+682,,,,3.33,PayPal,Failed
+683,,,,5.17,Apple Pay,Failed
+684,,,,5.31,Credit Card,Refunded
+685,,,,4.55,Google Pay,Refunded
+686,,,,4.55,Apple Pay,Completed
+687,,,,6.19,Google Pay,Refunded
+688,,,,4.85,Apple Pay,Refunded
+689,,,,1.29,Apple Pay,Failed
+690,,,,5.7,PayPal,Completed
+691,,,,3.93,PayPal,Refunded
+692,,,,4.54,Apple Pay,Refunded
+693,,,,1.69,PayPal,Failed
+694,,,,2.84,Google Pay,Failed
+695,,,,1.04,Credit Card,Failed
+696,,,,1.74,Apple Pay,Refunded
+697,,,,1.09,Google Pay,Completed
+698,,,,3.23,Google Pay,Completed
+699,,,,4.89,Credit Card,Refunded
+700,,,,3.03,Credit Card,Refunded
+701,,,,5.46,Google Pay,Completed
+702,,,,4.37,Credit Card,Failed
+703,,,,6.3,Google Pay,Refunded
+704,,,,4.49,Apple Pay,Failed
+705,,,,4.32,PayPal,Refunded
+706,,,,2.44,PayPal,Completed
+707,,,,2.02,Credit Card,Failed
+708,,,,3.41,PayPal,Refunded
+709,,,,6.88,Credit Card,Refunded
+710,,,,6.53,Credit Card,Completed
+711,,,,5.79,Credit Card,Completed
+712,,,,2.77,PayPal,Failed
+713,,,,2.94,Google Pay,Completed
+714,,,,2.76,Google Pay,Refunded
+715,,,,1.68,Credit Card,Refunded
+716,,,,1.93,Apple Pay,Failed
+717,,,,4.61,Google Pay,Refunded
+718,,,,1.72,PayPal,Refunded
+719,,,,4.91,Credit Card,Completed
+720,,,,5.32,Google Pay,Completed
+721,,,,5.55,Google Pay,Completed
+722,,,,6.66,Credit Card,Refunded
+723,,,,6.63,Google Pay,Failed
+724,,,,5.97,Apple Pay,Failed
+725,,,,3.72,PayPal,Completed
+726,,,,5.11,Apple Pay,Completed
+727,,,,2.9,Credit Card,Failed
+728,,,,3.1,Google Pay,Completed
+729,,,,2.61,Apple Pay,Completed
+730,,,,3.86,Apple Pay,Completed
+731,,,,5.68,Credit Card,Refunded
+732,,,,1.12,Credit Card,Failed
+733,,,,6.23,Credit Card,Refunded
+734,,,,3.43,PayPal,Failed
+735,,,,1.68,Google Pay,Failed
+736,,,,1.59,Google Pay,Failed
+737,,,,6.51,PayPal,Failed
+738,,,,1.88,PayPal,Completed
+739,,,,6.42,Apple Pay,Refunded
+740,,,,5.84,Credit Card,Refunded
+741,,,,5.97,PayPal,Failed
+742,,,,1.17,Google Pay,Refunded
+743,,,,2.76,Credit Card,Completed
+744,,,,3.13,Apple Pay,Completed
+745,,,,4.17,Google Pay,Completed
+746,,,,4.87,Credit Card,Failed
+747,,,,2.3,Credit Card,Failed
+748,,,,6.06,Google Pay,Completed
+749,,,,2.57,Apple Pay,Failed
+750,,,,3.62,Credit Card,Failed
+751,,,,5.06,Apple Pay,Completed
+752,,,,3.42,Google Pay,Failed
+753,,,,2.01,Google Pay,Refunded
+754,,,,3.04,Apple Pay,Completed
+755,,,,6.58,Apple Pay,Refunded
+756,,,,4.33,Apple Pay,Failed
+757,,,,6.41,Google Pay,Refunded
+758,,,,6.5,Apple Pay,Refunded
+759,,,,4,Apple Pay,Completed
+760,,,,5.98,Credit Card,Refunded
+761,,,,2.32,Credit Card,Refunded
+762,,,,5.3,Credit Card,Completed
+763,,,,3.93,Credit Card,Completed
+764,,,,4.98,Credit Card,Failed
+765,,,,2.48,Google Pay,Failed
+766,,,,1.78,Credit Card,Refunded
+767,,,,2.97,PayPal,Refunded
+768,,,,5.98,Credit Card,Refunded
+769,,,,4.52,Credit Card,Failed
+770,,,,3,Google Pay,Refunded
+771,,,,1.34,Apple Pay,Completed
+772,,,,5.65,Credit Card,Completed
+773,,,,5.9,PayPal,Refunded
+774,,,,5.89,Google Pay,Refunded
+775,,,,1.79,Apple Pay,Completed
+776,,,,2.78,Credit Card,Failed
+777,,,,2.87,PayPal,Completed
+778,,,,1.34,Google Pay,Refunded
+779,,,,6.92,Apple Pay,Refunded
+780,,,,1.64,Credit Card,Failed
+781,,,,3.19,Google Pay,Failed
+782,,,,3.74,PayPal,Completed
+783,,,,6.07,Google Pay,Completed
+784,,,,4.4,PayPal,Completed
+785,,,,1.88,Apple Pay,Completed
+786,,,,2.49,PayPal,Failed
+787,,,,2.45,Google Pay,Failed
+788,,,,6.25,Credit Card,Failed
+789,,,,6.51,Google Pay,Refunded
+790,,,,6.04,Credit Card,Refunded
+791,,,,4.53,PayPal,Failed
+792,,,,3.41,PayPal,Refunded
+793,,,,2.21,Apple Pay,Completed
+794,,,,2.67,Google Pay,Refunded
+795,,,,4.24,PayPal,Completed
+796,,,,6.76,Credit Card,Failed
+797,,,,4.02,Credit Card,Refunded
+798,,,,2.79,PayPal,Refunded
+799,,,,1.78,Google Pay,Refunded
+800,,,,5.39,Apple Pay,Completed
+801,,,,6.17,Credit Card,Failed
+802,,,,4.98,Apple Pay,Failed
+803,,,,4.43,Google Pay,Completed
+804,,,,5.31,Google Pay,Refunded
+805,,,,2,Google Pay,Completed
+806,,,,2.91,Apple Pay,Failed
+807,,,,6.42,Credit Card,Failed
+808,,,,2.16,Apple Pay,Completed
+809,,,,2.18,Apple Pay,Failed
+810,,,,2.51,Credit Card,Failed
+811,,,,6.2,Credit Card,Refunded
+812,,,,1.84,Credit Card,Failed
+813,,,,2.02,Google Pay,Completed
+814,,,,6.13,PayPal,Failed
+815,,,,1.9,Apple Pay,Completed
+816,,,,4.35,PayPal,Completed
+817,,,,2.15,Apple Pay,Failed
+818,,,,2.13,Google Pay,Refunded
+819,,,,2.13,Credit Card,Completed
+820,,,,1.42,PayPal,Completed
+821,,,,3.37,PayPal,Refunded
+822,,,,4.11,Google Pay,Failed
+823,,,,4.9,Credit Card,Refunded
+824,,,,4.51,Google Pay,Refunded
+825,,,,2.88,Apple Pay,Failed
+826,,,,2.2,Apple Pay,Refunded
+827,,,,1.63,Google Pay,Completed
+828,,,,2.62,Google Pay,Completed
+829,,,,4.54,Google Pay,Completed
+830,,,,5.59,Google Pay,Refunded
+831,,,,2.45,Apple Pay,Completed
+832,,,,4.82,Google Pay,Completed
+833,,,,2.2,Credit Card,Completed
+834,,,,6.35,Google Pay,Failed
+835,,,,2.92,Apple Pay,Failed
+836,,,,6.2,PayPal,Failed
+837,,,,5.97,PayPal,Failed
+838,,,,3.01,PayPal,Refunded
+839,,,,4.85,Credit Card,Failed
+840,,,,3.57,PayPal,Completed
+841,,,,6.57,PayPal,Completed
+842,,,,6.95,Google Pay,Refunded
+843,,,,4.67,Apple Pay,Refunded
+844,,,,6.01,Credit Card,Completed
+845,,,,1.44,Credit Card,Completed
+846,,,,4.69,PayPal,Failed
+847,,,,2.85,Google Pay,Failed
+848,,,,4.47,Apple Pay,Completed
+849,,,,2.66,Credit Card,Failed
+850,,,,2.68,Apple Pay,Refunded
+851,,,,2.25,Apple Pay,Failed
+852,,,,4.27,PayPal,Failed
+853,,,,3.45,PayPal,Failed
+854,,,,6.01,Apple Pay,Failed
+855,,,,5.04,Google Pay,Failed
+856,,,,5.99,Apple Pay,Completed
+857,,,,2.02,Apple Pay,Refunded
+858,,,,1.26,Google Pay,Completed
+859,,,,5.68,Apple Pay,Failed
+860,,,,3.13,Apple Pay,Failed
+861,,,,4.89,Credit Card,Refunded
+862,,,,3.92,Google Pay,Completed
+863,,,,1.24,Credit Card,Completed
+864,,,,3.85,Credit Card,Refunded
+865,,,,6.31,Google Pay,Refunded
+866,,,,3.46,Credit Card,Completed
+867,,,,3.31,Credit Card,Failed
+868,,,,4.4,Credit Card,Refunded
+869,,,,3.74,PayPal,Refunded
+870,,,,5.83,Google Pay,Completed
+871,,,,2.29,PayPal,Completed
+872,,,,6.16,PayPal,Completed
+873,,,,2.74,Apple Pay,Refunded
+874,,,,5.31,Google Pay,Refunded
+875,,,,6.94,Credit Card,Failed
+876,,,,3.86,Credit Card,Failed
+877,,,,2.25,PayPal,Refunded
+878,,,,2.02,Google Pay,Completed
+879,,,,4.28,Apple Pay,Failed
+880,,,,4.16,PayPal,Failed
+881,,,,3.6,Credit Card,Failed
+882,,,,6.96,PayPal,Refunded
+883,,,,2.83,Apple Pay,Refunded
+884,,,,4.66,PayPal,Completed
+885,,,,2.15,Credit Card,Failed
+886,,,,3.96,Credit Card,Failed
+887,,,,3.98,Credit Card,Refunded
+888,,,,6.93,Apple Pay,Completed
+889,,,,3.42,Apple Pay,Refunded
+890,,,,2.86,Apple Pay,Completed
+891,,,,1.42,Google Pay,Failed
+892,,,,3.61,Credit Card,Failed
+893,,,,1.61,Apple Pay,Refunded
+894,,,,2.43,PayPal,Failed
+895,,,,2.17,Credit Card,Refunded
+896,,,,2.38,Apple Pay,Completed
+897,,,,5.62,Google Pay,Refunded
+898,,,,5.42,Credit Card,Completed
+899,,,,2.22,Google Pay,Failed
+900,,,,5.52,Google Pay,Failed
+901,,,,4.53,Apple Pay,Refunded
+902,,,,3.08,Credit Card,Failed
+903,,,,3.59,Apple Pay,Failed
+904,,,,3.38,PayPal,Completed
+905,,,,6.65,Credit Card,Failed
+906,,,,6.15,Apple Pay,Completed
+907,,,,1.32,PayPal,Completed
+908,,,,1.91,PayPal,Failed
+909,,,,6.2,PayPal,Failed
+910,,,,5.15,Credit Card,Completed
+911,,,,3.78,Google Pay,Completed
+912,,,,4.97,Credit Card,Failed
+913,,,,1.37,Google Pay,Failed
+914,,,,6.67,Apple Pay,Failed
+915,,,,5.18,PayPal,Completed
+916,,,,1.68,PayPal,Failed
+917,,,,5.53,Credit Card,Completed
+918,,,,2.28,PayPal,Refunded
+919,,,,6.18,Google Pay,Refunded
+920,,,,5.21,PayPal,Refunded
+921,,,,2.26,PayPal,Failed
+922,,,,3.45,Apple Pay,Failed
+923,,,,1.46,Apple Pay,Failed
+924,,,,2.21,Credit Card,Failed
+925,,,,3.21,Google Pay,Refunded
+926,,,,2.54,Apple Pay,Failed
+927,,,,1.53,PayPal,Failed
+928,,,,5.88,Apple Pay,Completed
+929,,,,4.07,Google Pay,Completed
+930,,,,6.19,Credit Card,Completed
+931,,,,2.01,Credit Card,Failed
+932,,,,4.98,PayPal,Completed
+933,,,,1.87,Apple Pay,Completed
+934,,,,1.81,Credit Card,Failed
+935,,,,6.16,Apple Pay,Completed
+936,,,,3.95,Google Pay,Failed
+937,,,,4.49,Google Pay,Completed
+938,,,,6.49,PayPal,Completed
+939,,,,1.49,Google Pay,Completed
+940,,,,2.18,Apple Pay,Failed
+941,,,,2.09,Google Pay,Failed
+942,,,,6.2,Google Pay,Refunded
+943,,,,5.76,Apple Pay,Refunded
+944,,,,3.21,Credit Card,Refunded
+945,,,,3.74,Apple Pay,Failed
+946,,,,5.87,Apple Pay,Failed
+947,,,,5.57,Apple Pay,Failed
+948,,,,1.32,Credit Card,Completed
+949,,,,3.64,Apple Pay,Completed
+950,,,,2.12,Apple Pay,Failed
+951,,,,2.33,Google Pay,Failed
+952,,,,1.49,PayPal,Refunded
+953,,,,5.25,Google Pay,Completed
+954,,,,6.38,Apple Pay,Failed
+955,,,,2.81,PayPal,Failed
+956,,,,3.34,Credit Card,Completed
+957,,,,1.04,Apple Pay,Refunded
+958,,,,5.65,Apple Pay,Refunded
+959,,,,3.88,Credit Card,Refunded
+960,,,,6.51,PayPal,Failed
+961,,,,6.44,Credit Card,Completed
+962,,,,2.28,PayPal,Failed
+963,,,,1.25,Apple Pay,Failed
+964,,,,3,Apple Pay,Refunded
+965,,,,2.54,Apple Pay,Refunded
+966,,,,2.95,Apple Pay,Failed
+967,,,,4.43,Google Pay,Completed
+968,,,,3.14,Apple Pay,Failed
+969,,,,5.54,Apple Pay,Failed
+970,,,,2.87,Credit Card,Refunded
+971,,,,4.2,PayPal,Failed
+972,,,,4.67,Apple Pay,Failed
+973,,,,4.43,PayPal,Refunded
+974,,,,5.65,Google Pay,Failed
+975,,,,6.82,Credit Card,Refunded
+976,,,,1.42,Apple Pay,Refunded
+977,,,,5.11,Credit Card,Refunded
+978,,,,5.72,PayPal,Completed
+979,,,,3.23,Apple Pay,Completed
+980,,,,1.79,Apple Pay,Completed
+981,,,,1.02,PayPal,Failed
+982,,,,4.81,Google Pay,Completed
+983,,,,4.31,Google Pay,Completed
+984,,,,2.54,Credit Card,Failed
+985,,,,5.53,PayPal,Completed
+986,,,,5.79,PayPal,Refunded
+987,,,,6.25,Credit Card,Refunded
+988,,,,1.35,PayPal,Completed
+989,,,,6.67,Credit Card,Completed
+990,,,,1.96,Apple Pay,Refunded
+991,,,,6.69,PayPal,Completed
+992,,,,2.68,Apple Pay,Failed
+993,,,,3.9,Credit Card,Failed
+994,,,,4.4,Credit Card,Failed
+995,,,,3.02,PayPal,Failed
+996,,,,5.75,Credit Card,Refunded
+997,,,,6.98,Google Pay,Refunded
+998,,,,6.27,Credit Card,Refunded
+999,,,,5.13,Credit Card,Completed
+1000,,,,6.54,PayPal,Failed

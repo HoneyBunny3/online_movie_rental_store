@@ -1,0 +1,4 @@
+admin_id,username,email,password_hash,role,created_at
+1,llintot0,wdurdy0@mockbuster.com,6587d1b0f0e28f6eeb84ba2425ef844c,superadmin,1/1/20
+2,fstother1,cnewis1@mockbuster.com,97f67bfe556a3d34459255c2500d428f,support,4/5/20
+3,lmarkwell2,mminthorpe2@mockbuster.com,325764a4228952749d8356d9e792a1a5,admin,1/6/20
