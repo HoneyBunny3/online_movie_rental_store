@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+
+{% block title %}Home | Movie Rental{% endblock %}
+
+{% block content %}
+<div class="container mt-5">
+    <h1 class="text-center">Welcome to the Movie Rental Store</h1>
+    <p class="lead text-center">Browse and rent your favorite movies with ease.</p>
+    <div class="d-grid gap-2 col-6 mx-auto">
+        <a href="{% url 'movies:list' %}" class="btn btn-primary btn-lg">Browse Movies</a>
+    </div>
+</div>
+{% endblock %}

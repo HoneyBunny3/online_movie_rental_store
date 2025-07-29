@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %}Movie Rental Store{% endblock %}</title>
+
+    <!-- Bootstrap CSS via CDN -->
+    <link
+        href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+        rel="stylesheet"
+        integrity="sha384-9ndCyUa0R+Y0pC2UJ0IigzfDbh6Rm4tkE0D0kpKjN8AjvLq0x+0CFaR8S4mTkt4Z"
+        crossorigin="anonymous"
+    >
+
+    {% block extra_head %}{% endblock %}
+</head>
+<body>
+    {% block content %}{% endblock %}
+
+    <!-- Bootstrap JavaScript Bundle (for dropdowns, modals, etc.) -->
+    <script
+        src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-LtrjvnR4Twt/qOuYxAp6c7R3C5xskFfa5iHpp2ZB+zRj9AaM5jrmY/l3ojmPyG5y"
+        crossorigin="anonymous"
+    ></script>
+</body>
+</html>
