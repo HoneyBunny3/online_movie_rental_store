@@ -1,0 +1,6 @@
+/* Use this template to include this custom style sheet
+
+{%load static%}
+<link rel="stylesheet" href="{% static 'css/custom.css' %}">
+
+*/
